@@ -1,0 +1,45 @@
+.form {
+    max-width: 400px;
+    margin: 0 auto;
+    border: rgb(5, 5, 5) 5px groove;
+    padding: 2em;
+    
+}
+
+
+.form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+
+.form input[type="text"],
+.form input[type="email"] {
+    width: 94%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.boton {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    
+}
+
+.divBoton{
+    justify-content: center;
+    text-align: center;
+}
+
+.form h5 {
+    justify-content: center;
+    text-align: center;
+}
+
